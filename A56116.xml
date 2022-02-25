@@ -1,0 +1,663 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proverbs and paradoxes breaking forth in the day of contention between the Parliament and Army to prevent the dividing of the Army, and the apparent deluge of blood, so long endeavoured, and now brought to passe by the Jesuite and Kings party, using the Presbyterian and Parliament men, as the monky the catts paw, but hath, but hath lingred in the birth by needlesse importunities, stepping into the press before them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56116</idno>
+            <idno type="STC">Wing P3875A</idno>
+            <idno type="STC">ESTC R219593</idno>
+            <idno type="EEBO-CITATION">99831054</idno>
+            <idno type="PROQUEST">99831054</idno>
+            <idno type="VID">35516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2038:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proverbs and paradoxes breaking forth in the day of contention between the Parliament and Army to prevent the dividing of the Army, and the apparent deluge of blood, so long endeavoured, and now brought to passe by the Jesuite and Kings party, using the Presbyterian and Parliament men, as the monky the catts paw, but hath, but hath lingred in the birth by needlesse importunities, stepping into the press before them.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Proverbs, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35516:1"/>
+            <pb n="1" facs="tcp:35516:1" rendition="simple:additions"/>
+            <head>PROVERBS and PARADOXES</head>
+            <head type="sub">Breaking forth in the day of Contention between the Parliament and Army, to prevent the di<g ref="char:EOLhyphen"/>viding of the Army, and the Apparent De<g ref="char:EOLhyphen"/>luge of blood, ſo long endeavoured, and now brought to paſſe by the Jeſuite and Kings Party, uſing the Presbyterian and Parliament men, as the Monky the Catts Pavv, but hath lingred in the Birth by needleſſe Importuni<g ref="char:EOLhyphen"/>ties, ſtepping into the Preſſ before them.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. 28.2.</hi>
+                  </bibl>
+                  <p>For the Tranſgreſſion of a Land many are the Princes thereof: but by a man of underſtanding and knowledge the State ſhall be prolonged.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ot Governours but Government is the de<g ref="char:EOLhyphen"/>light or grievance of a Nation.
+<note place="margin">Government.</note>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>It is not a King, It is not a Parliament, It is not an Army that makes a Nation happy, if the Government be bad.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Government is a Syſteme, or Body of Lawes, Statutes and Judgements, containing the duties both of Governours and Governed.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>Good Government makes good Governours, and rejoyceth the Governed: <note place="margin">Pro. 18.3. Pro. 28.4.12.15.28. Pro. 29.2.</note>but bad Government maketh bad Governours, and the Governed mourn,</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="2" facs="tcp:35516:2"/>
+               <head>V.</head>
+               <p>Good Government is unchangeable, but bad Govern<g ref="char:EOLhyphen"/>ment, ſafety no longer then the Power of the Sword.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>Good Government is only from God, but bad Govern<g ref="char:EOLhyphen"/>ment is only from men.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Governments invented by men, tend alwayes to their own Intereſt.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>When Governments depend on Governours, they laſt but a ſhore time of Life: the firſt part deducted for Inca<g ref="char:EOLhyphen"/>pacity, and the latter part oftentimes cut off for Diſabi<g ref="char:EOLhyphen"/>litie, or Infidelity.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>When Government depends on Governours, they change with every Perſon, and every Paſſion. New Lords, new Lawes.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>Government is more then Governours, as the whole is more then a part; when therfore Governours will bee greater then Government,
+<note place="margin">Mat. 24 24.</note> it ſwells them up into a bubble, and they break. Gnatts cannot ſwallow Camells.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>When Governours will be greater then Government, they ſtreighten Government, and ſqueeſe the People, to the capa<g ref="char:EOLhyphen"/>city and boudage of their Luſt.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>Such Government diſquiets every ambitious Spirit, to contrive how he may get next into the Saddle, and his friends are Paraſites of the ſame mould, with their Attend<g ref="char:EOLhyphen"/>ants, fraud and cruelty.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Governours and governed might make up a Government, as parts make up a whole. But becauſe Governours and go<g ref="char:EOLhyphen"/>verned can never meet together in one, nor agree together if met; therefore it is impoſſible for men to make a compleat Go<g ref="char:EOLhyphen"/>vernment, although when all is done, it were but humane, if God be left out, and far below the Government of God.</p>
+            </div>
+            <div n="14" type="part">
+               <pb n="3" facs="tcp:35516:2"/>
+               <head>XIV.</head>
+               <p>The framing of a Government is called a Law-giving or Le<g ref="char:EOLhyphen"/>giſlative power, but that (if good) is not in man.
+<note place="margin">Legiſlative Power. Luc. 18.19.</note>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>He that wakes Lawes for men muſt be above man. And he that will make them perfect, muſt himſelf be without imper<g ref="char:EOLhyphen"/>fection.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>A man cannot make a Law more perfect then himſelf. Nor impartial, becauſe he is a Party governing or governed.</p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <p>The Lawes of <hi>Medes</hi> and <hi>Perſians,</hi> and all the Governments of <hi>Arbens, Rome,</hi> and <hi>Venice, &amp;c.</hi> were and are imperfect; ſome profane, ſome ſuperſtitious; Ours, All.</p>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <p>The man above man, Chriſt Jeſus is our one Law-giver,
+<note place="margin">Ja. 4.12.</note> who is able to ſave and to deſtroy.</p>
+            </div>
+            <div n="19" type="part">
+               <head>XIX.</head>
+               <p>He is our King, he is our Law giver, he is our Judge,
+<note place="margin">If. 33.22.</note> he will ſave us.</p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <p>They that will vie for Legiſlative power, muſt neceſſarily rival Jeſus Chriſt.</p>
+            </div>
+            <div n="21" type="part">
+               <head>XXI.</head>
+               <p>They that will rival Jeſus Chriſt, can only do it in this life.</p>
+            </div>
+            <div n="22" type="part">
+               <head>XXII.</head>
+               <p>The Legiſlative power of Jeſus Chriſt is only in this life,
+<note place="margin">Heb. 9.27. 2 Cor. 5.10. Rev. 20.12. Mat. 16.27. 1 Cor. 15.28.</note> for after death cometh Judgment, that every one may receive the things done in his body, to be judged out of thoſe things which are written in the Books, according to their works. And afterwards ſhall the Son himſelf be ſubject to the Father, that God may be All in All.</p>
+            </div>
+            <div n="23" type="part">
+               <head>XXIII.</head>
+               <p>They that will Rival Jeſus Chriſt, or his Legiſ<g ref="char:EOLhyphen"/>lative power, muſt neceſſarily finde fault with Gods Law.</p>
+            </div>
+            <div n="24" type="part">
+               <pb n="4" facs="tcp:35516:3"/>
+               <head>XXIV.</head>
+               <p>They that find fault ought to amend, and they that thinck to amend Gods Law, make themſelves wiſer then God.</p>
+            </div>
+            <div n="25" type="part">
+               <head>XXV.</head>
+               <p>They that thinck themſelves wiſer then God,
+<note place="margin">Prov. 26.12.</note> are but ſo in their own conceit, and there is more hope of a Fool, for the fooliſhneſſe of God is wiſer then men.
+<note place="margin">1 Cor. 1.25.</note>
+               </p>
+            </div>
+            <div n="26" type="part">
+               <head>XXVI.</head>
+               <p>The fear of the Lord is the beginning of knowledge,
+<note place="margin">Job 28.28. Prov. 1.7. Pſal. 119.98, 99; 100.</note> his Commandments make us wiſer then our enemies, and give us more underſtanding, then our Teachers. The keeping of his Precepts make us underſtand more then the Ancient.</p>
+            </div>
+            <div n="27" type="part">
+               <head>XXVII.</head>
+               <p>When men acknowledge God, then they are godly, no man doth acknowledge God that doth not obey his Law.
+<note place="margin">1 Jo. 2.3.</note>
+               </p>
+            </div>
+            <div n="28" type="part">
+               <head>XXVIII.</head>
+               <p>His Law is perfect,
+<note place="margin">LAW. Pſal. 19.7, 8, 9.</note> his Statutes are right, his Judgments are true and righteous altogether. So that none may
+<note n="a" place="margin">Dent. 4 2.12.32. Prov. 30.6. Rev. 22.18, 19.</note> adde nor diminiſh. Nor
+<note n="b" place="margin">Joſ. 1.7. Deut. 5.32.17.20.28.14.</note> turn to the right hand, nor to the left. Nor have any
+<note n="c" place="margin">Exod. 12.19, 49. Lev. 24.22. Numb. 15.16. Exod. 20.10.23.9.12. Lev. 16.29.17.12, 15, 18.26.19.10, 34.23.22.24.16.25.6.35.47, 48. Numb. 9.14.15.14, 15, 16, 26, 29, 30.19.10.35.15. Deut. 1.16.5.14.10.8, 19.14.21.17.15.23.7, 20.26.21. Deut. 29.11.31.12. Joſ. 8.33.20.9.</note> other Law for the ſtranger, then for the home<g ref="char:EOLhyphen"/>born.</p>
+            </div>
+            <div n="29" type="part">
+               <head>XXIX.</head>
+               <p>The Law is a Royall Law,
+<note place="margin">Ja. 2.8. Rom. 7.12, 14 Ja. 1.25. Ja. 2.10, 11.</note> Spirituall, Holy, Juſt and Good. A perfect Law of Liberty, ſo perfect, that whoſoever ſhall keep the whole Law, and yet offend in one Point is guilty of all, and the reaſon is, becauſe that he that commanded one com<g ref="char:EOLhyphen"/>manded all.</p>
+            </div>
+            <div n="30" type="part">
+               <head>XXX.</head>
+               <p>Man cannot poſſibly invent another Law, ſave only in diſo<g ref="char:EOLhyphen"/>bedience, and oppoſition of the Law of God.</p>
+            </div>
+            <div n="31" type="part">
+               <head>XXXI,</head>
+               <p>God himſelf keeps his own Law, and with all his Saints and Angells will keep them for ever in the Heavens.</p>
+            </div>
+            <div n="32" type="part">
+               <pb n="5" facs="tcp:35516:3"/>
+               <head>XXXII.</head>
+               <p>By keeping this Law, the People of <hi>Iſrael</hi> were a peculiar Treaſure unto God above all People,
+<note place="margin">Exod. 19.5, 6. Deut. 1.10.</note> and were to be a King<g ref="char:EOLhyphen"/>dome of Prieſts, and an holy Nation, and were multiplied as the Stars of Heaven,
+<note place="margin">1 King. 4.20.</note> and as the Sand which is by the Sea for multitude, and were eating and drincking and making merry,
+<note place="margin">25.</note> and they dwelt ſafely, every man under his Vine, and under his Figtree, and Silver was as the Stones in <hi>Jeruſalem,</hi>
+                  <note place="margin">1 Chron. 10.21.27.</note> it was nothing accounted of.</p>
+            </div>
+            <div n="33" type="part">
+               <head>XXXIII.</head>
+               <p>The People proſpered alwayes, and fared well,
+<note place="margin">1 King. 4. Joſ. 24.31.2.7. 2 King. 17.1. Chap. 23.24. Joſ. 2.11, 12, 13, 14, 15.</note> keeping this Law, both in the time of Kings, and in the time of Judges; but they fared ill when they forſook it, both in the time of Kings, and in the time of Judges.</p>
+            </div>
+            <div n="34" type="part">
+               <head>XXXIV.</head>
+               <p>The united Provinces, living under the ſhaddow of this Law, are multiplied exceedingly, and are eating and drincking and making merry, with great plenty of Gold, Silver, and all other abundance, proſpering in all their Labours, and fare better then all the Kingdomes, and Common-wealths in the whole World, if then we will envy them, and fare better then they, let us live up cloſer to theſe Lawes of God then they, and we ſhall proſper more then they.</p>
+            </div>
+            <div n="35" type="part">
+               <head>XXXV.</head>
+               <p>The baſis of Tyrants Lawes, are Luſt and Selfwill. The baſis of Lawes by Parliament are Yeaes and Nayes.</p>
+            </div>
+            <div n="36" type="part">
+               <head>XXXVI.</head>
+               <p>In what a tottering condition is that Nation, whoſe Being and well-Being depends upon the Ebbings and Flow<g ref="char:EOLhyphen"/>ings of YEA's and NAYES.</p>
+            </div>
+            <div n="37" type="part">
+               <head>XXXVII.</head>
+               <p>Though men have not Legiſlative Power,
+<note place="margin">Councill.</note> yet Councill and Wiſdom is neceſſary to the Order and Execution of good Go<g ref="char:EOLhyphen"/>vernment.</p>
+            </div>
+            <div n="38" type="part">
+               <head>XXXVIII.</head>
+               <p>The wiſdom of a Nation is in chuſing a godly Councill, and the ſafety in a multitude of Counſellers:
+<note place="margin">Pro. 11.14, 15, 22, 24, 26.</note> where every mans Reaſon (like a publick Treaſure) contributes to ſafety, ſo they
+<pb n="6" facs="tcp:35516:4"/>be not executors of their own Counſells.</p>
+            </div>
+            <div n="39" type="part">
+               <head>XXXIX.</head>
+               <p>The ſtrength of a Nation is in multitude of People,
+<note place="margin">Pro.</note> and the wealth of a Nation in frequent Trade and Traffique.</p>
+            </div>
+            <div n="40" type="part">
+               <head>XL.</head>
+               <p>One chief Councill or Authority muſt be over all, for Ap<g ref="char:EOLhyphen"/>peales and Difficulties.</p>
+            </div>
+            <div n="41" type="part">
+               <head>XLI.</head>
+               <p>As it is preſumption in the chiefeſt Councills to Rivall the Lord Jeſus Chriſt in his Legiſtative Power: ſo it is below them to deſcend to leſſe then appeales or the moſt difficult Caſe.</p>
+            </div>
+            <div n="42" type="part">
+               <head>XLII.</head>
+               <p>When Supreme Councils are but repreſentatives of the Peo<g ref="char:EOLhyphen"/>ple, it obligeth them to obey whom they repreſent, and be to them accomptable (which would be thought a ſoloeciſm) but if they judge for God,
+<note place="margin">Deut 1.17. Deut. 17.19.</note> they repreſent God, and ought to obey him, and be accomptable to him.</p>
+            </div>
+            <div n="43" type="part">
+               <head>XLIII.</head>
+               <p>When Supreme Authority, Councill, and Governours, do not repreſent God, in judging for God, their higheſt title can be but to repreſent the people, though that be but a falla<g ref="char:EOLhyphen"/>cie. For the people are never conſulted with, nor ſcarce ſuf<g ref="char:EOLhyphen"/>fered to petition. But the ſhadow will be more conſiderable then the ſubſtance. The Repreſentative will act both parts, diſpoſing of Eſtates, Lives and Liberties of the Repreſented and their Poſterities at pleaſure.</p>
+            </div>
+            <div n="44" type="part">
+               <head>XLIV.</head>
+               <p>A wiſe Counſel eſtabliſh the People. But a fooliſh Counſel eſtabliſh themſelves.</p>
+            </div>
+            <div n="45" type="part">
+               <head>XLV.</head>
+               <p>Whether the Supreme Councel or Authority be few or ma<g ref="char:EOLhyphen"/>ny, or whether Appeals be to many or few, is not worth the diſpute, much leſſe one drop of blood, ſo a true Government be ſetled. For then an Elderſhip of ſeventy, or a Kingſhip of <hi>Solomon</hi> do alike make the people happy. Then the great diſ<g ref="char:EOLhyphen"/>pute o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Monarchy, Ariſtocracie, Democracie, Olygarehy, Poly<g ref="char:EOLhyphen"/>garchie, Anarchie, (which affrightens the common people
+<pb n="7" facs="tcp:35516:4"/>like an exorciſm) do all fall to the ground as groundleſſe diſ<g ref="char:EOLhyphen"/>putes. Though all the quarrel hitherto hath bin, not What Go<g ref="char:EOLhyphen"/>vernment, but Who ſhall govern?</p>
+            </div>
+            <div n="46" type="part">
+               <head>XLVI.</head>
+               <p>If the Supreme Authority be wicked, it is better have one Tyrant then many. If it be good,
+<note place="margin">1 Cor. 12.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> it is better have many helps then few, like two ſtrings to a Bowe.</p>
+            </div>
+            <div n="47" type="part">
+               <head>XLVII.</head>
+               <p>The Election of Governours,
+<note place="margin">Election.</note> is given by God unto the people to have a ſhare in.</p>
+            </div>
+            <div n="48" type="part">
+               <head>XLVIII.</head>
+               <p>The excellency of <hi>Venice,</hi> 
+                  <note place="margin">Deut. 1.13.16.18.17.15. Act. 6.3.</note>and other places, is but the wiſ<g ref="char:EOLhyphen"/>dom and order of election.</p>
+            </div>
+            <div n="49" type="part">
+               <head>XLIX.</head>
+               <p>As many are beſt for Counſel, ſo few for Order.
+<note place="margin">Order.</note>
+               </p>
+            </div>
+            <div n="50" type="part">
+               <head>L.</head>
+               <p>Want of order breeds confuſion;
+<note place="margin">1 Cor. 14.33.</note> but God is the God of order.</p>
+            </div>
+            <div n="51" type="part">
+               <head>LI.</head>
+               <p>It is a breach of Order to begin a ſecond buſineſſe, be<g ref="char:EOLhyphen"/>fore the firſt be finiſhed. And to graſp at all, perfecteth no<g ref="char:EOLhyphen"/>thing. For all cover, all loſe.</p>
+            </div>
+            <div n="52" type="part">
+               <head>LII.</head>
+               <p>Where there is concord and unity in councel, there is ſtrength and honour. But where there is diſcord, there enters contention and ruine.
+<note place="margin">Mat. 12.25.</note> For a houſe divided cannot ſtand. <hi>Concordiâ parvae res creſcunt, diſc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdiâ maxi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> dila<g ref="char:EOLhyphen"/>buntur.</hi>
+               </p>
+            </div>
+            <div n="53" type="part">
+               <head>LIII.</head>
+               <p>Only through pride comes contention.
+<note place="margin">Pro. 13.10.28.25.25.4.</note> But take away the wicked from the Councel, and Government ſhall be eſta<g ref="char:EOLhyphen"/>bliſhed.</p>
+            </div>
+            <div n="54" type="part">
+               <head>LIV.</head>
+               <p>Whether Governours in Authority be few or many,
+<note place="margin">Governours.</note> they are but a part of Government.</p>
+            </div>
+            <div n="55" type="part">
+               <head>LV.</head>
+               <p>Every man naturally affecteth Government, and would be a<g ref="char:EOLhyphen"/>lone, or (at leaſt) upper moſt.</p>
+            </div>
+            <div n="56" type="part">
+               <pb n="8" facs="tcp:35516:5"/>
+               <head>LVI.</head>
+               <p>Every man by nature will be flattered and adored.</p>
+            </div>
+            <div n="57" type="part">
+               <head>LVII.</head>
+               <p>Every mans way is right in his own eyes.
+<note place="margin">Pro. 21.2. Pro. 12.15.14.12.26.25.</note>
+               </p>
+            </div>
+            <div n="58" type="part">
+               <head>LVIII.</head>
+               <p>Till men can ſubmit to Government, they are not fit to be Governours.</p>
+            </div>
+            <div n="59" type="part">
+               <head>LIX.</head>
+               <p>Such as the Governours are, ſuch are the People, whether it be to Wiſdom or Folly,
+<note place="margin">Pro. 19.12.</note> Vertue or Vice, <hi>Regis ad exem<g ref="char:EOLhyphen"/>plum.</hi>
+               </p>
+            </div>
+            <div n="60" type="part">
+               <head>LX.</head>
+               <p>Ambitious Governours deſtroy the People, and covetous make them miſerable. We have had both.</p>
+            </div>
+            <div n="61" type="part">
+               <head>LXI.</head>
+               <p>Unlimited Governours are like Lions let looſe into the Wilderneſſe of their own Paſſions,
+<note place="margin">Pro. 28.15, 16.</note> where Luſt (like hun<g ref="char:EOLhyphen"/>ger) minding them of their prey, they ſeize on all that is next them.</p>
+            </div>
+            <div n="62" type="part">
+               <head>LXII.</head>
+               <p>Governours who are ſupreme above men, have none a<g ref="char:EOLhyphen"/>bove them but God. If therefore they have not the Word of God to limit them, they grow boundleſſe.</p>
+            </div>
+            <div n="63" type="part">
+               <head>LXIII.</head>
+               <p>Where Kings are Governours,
+<note place="margin">1 Sam. 8. 1 Pet. 2.13. Deut. 17.14, 20</note> they are ſupreme, yet they are limited by the Word of God. And the people are limited who deſire them.</p>
+            </div>
+            <div n="64" type="part">
+               <head>LXIV.</head>
+               <p>When Kings forſook the Lawes of God they became Ty<g ref="char:EOLhyphen"/>rants,
+<note place="margin">Pro. 28.16. 1 Chro. 11.14.</note> and God ſtirred up enemies againſt them, ſometimes ſtrangers, ſometimes their own people, ſometimes private men: For when Governours alter their Properties, they are no more Governours; no more then when a wiſe man be<g ref="char:EOLhyphen"/>comes a fool or Madman, can be any longer a wiſe man.</p>
+            </div>
+            <div n="65" type="part">
+               <head>LXV.</head>
+               <p>Whoſoever deſtroyed a Tyrant, was himſelf rewarded with their Crown, or might have been ſo rewarded.</p>
+            </div>
+            <div n="66" type="part">
+               <pb n="9" facs="tcp:35516:5"/>
+               <head>LXVI.</head>
+               <p>Places make not men, but men make Places.
+<note place="margin">Place.</note>
+               </p>
+            </div>
+            <div n="67" type="part">
+               <head>LXVII.</head>
+               <p>Places make not men wiſe, nor honeſt, but diſcover what they are, <hi>Magiſtratus Oſtendit Virum, non facit.</hi>
+               </p>
+            </div>
+            <div n="68" type="part">
+               <head>LXVIII.</head>
+               <p>Men may be as wiſe and honeſt out of Councill as in Coun<g ref="char:EOLhyphen"/>cill, out of Parliament as in Parliament.</p>
+            </div>
+            <div n="69" type="part">
+               <head>LXIX.</head>
+               <p>A Fool in a wiſe mans place, a privat Spirit in a publick,
+<note place="margin">Eccl. 10.6, 7, 17 Iſ. 1.23.</note> Servants on Horſeback and Princes on Foot, and Princes to be companions of Theeves, loving Gifts, and following after re<g ref="char:EOLhyphen"/>wards, makes a lean and deformed Common-wealth.</p>
+            </div>
+            <div n="70" type="part">
+               <head>LXX.</head>
+               <p>Nevertheleſs,
+<note place="margin">1 Cor. 6.4.</note> the leaſt eſteemed Chriſtian is ſufficient for a Judge, and the ſimpleſt meaning man for a witneſſe: ſince no man ought to witneſſe or judge beyond what he ſees or heares,
+<note place="margin">Deut. 1.17. Lev. 19.15.</note> unleſſe it be in diſcerning of a falſe witneſſe.</p>
+            </div>
+            <div n="71" type="part">
+               <head>LXXI.</head>
+               <p>Governours are not Governours without a Sword,
+<note place="margin">Sword. Rom. 13.4.</note> nor ought they to wear it in vain, but to puniſh evill doers.</p>
+            </div>
+            <div n="72" type="part">
+               <head>LXXII.</head>
+               <p>Againſt the Righteous man there ought to be no Sword, for the Law it ſelf is not made for a Righteous man.
+<note place="margin">1 Tim. 1.9.</note>
+               </p>
+            </div>
+            <div n="73" type="part">
+               <head>LXXIII.</head>
+               <p>Every Sword is a Sword of Juſtice or Injuſtice, wherof the firſt is only of God.</p>
+            </div>
+            <div n="74" type="part">
+               <head>LXXIV.</head>
+               <p>The ordinary Sword is for the Magiſtrate in time of Peace, the extraordinary for the Sold<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er in time of Warr.</p>
+            </div>
+            <div n="75" type="part">
+               <head>LXXV.</head>
+               <p>The abuſe or neglect of the Sword of Peace drawes forth the Sword of Warr,
+<note place="margin">Eccl. 8.11.</note> for becauſe Sentence againſt an evil work is not ſpedily executed, therfore the heart of the Sons of men is fully ſet in them to do evil.</p>
+            </div>
+            <div n="76" type="part">
+               <head>LXXVI.</head>
+               <p>When offenders are greater and ſtronger then Magiſtrates, and do reſiſt them, then an Army performes the work of a Magiſtrate,</p>
+            </div>
+            <div n="77" type="part">
+               <head>LXXVII.</head>
+               <p>When the War is ended, the Sword ought to be put up in a peaceful Scabbard.</p>
+            </div>
+            <div n="78" type="part">
+               <pb n="10" facs="tcp:35516:6"/>
+               <head>LXXVIII.</head>
+               <p>An Army in time of Peace is a badge of ſlavery, which in time of war and danger is a means of deliverance and ſafety.</p>
+            </div>
+            <div n="79" type="part">
+               <head>LXXIX.</head>
+               <p>Nevertheleſſe, when ſouldiers have done their work, they ought to be paid and cheriſhed.</p>
+            </div>
+            <div n="80" type="part">
+               <head>LXXX.</head>
+               <p>When ſouldiers have purchaſed Freedom and Peace to a Na<g ref="char:EOLhyphen"/>tion, they ought not to be debarred of it themſelves. Nor ought to be disbanded till they are made capable of the ſame Peace and Freedom they have procured to others.</p>
+            </div>
+            <div n="81" type="part">
+               <head>LXXXI.</head>
+               <p>Soldiers,
+<note place="margin">Exod. 18.21. Deut. 1.15.</note> who are Magiſtrates in time of Warr, may more eaſily be Magiſtrates in time of Peace. And as the Magiſtrates Sword neglected made the Soldiers, ſo the Soldiers Sword im<g ref="char:EOLhyphen"/>proved makes a Magiſtrate.</p>
+            </div>
+            <div n="82" type="part">
+               <head>LXXXII.</head>
+               <p>The wiſdom and conduct of Warr is in the Officers, the ſtrength and execution in the privat Soldier.</p>
+            </div>
+            <div n="83" type="part">
+               <head>LXXXIII.</head>
+               <p>There is as much reaſon or more to pay the privat Soldier, as the Officer, by how much his labour, danger, and want is greater.</p>
+            </div>
+            <div n="84" type="part">
+               <head>LXXXIV.</head>
+               <p>There is as ſufficient ſubſiſtence for privat Soldiers in time of Peace as in time of Warr, and as all men fare better in time of Peace then Warr, ſo ought the privat Soldier.</p>
+            </div>
+            <div n="85" type="part">
+               <head>LXXXV.</head>
+               <p>Sudden disbandings renew a Warr, or fill the high wayes with violence.</p>
+            </div>
+            <div n="86" type="part">
+               <head>LXXXVI.</head>
+               <p>Warr is not ended till a Peace be ſetled, nor peace ſettled but by a true Government.</p>
+            </div>
+            <div n="87" type="part">
+               <head>LXXXVII.</head>
+               <p>There can be no true Government by the enemies of Truth and Government.</p>
+            </div>
+            <div n="88" type="part">
+               <head>LXXXVIII.</head>
+               <p>
+                  <hi>England</hi> hath many enemies, many ſuch enemies both pow<g ref="char:EOLhyphen"/>erfull and dangerous.</p>
+            </div>
+            <div n="89" type="part">
+               <head>LXXXIX.</head>
+               <p>The dangerous enemies are at home, the powerfull are abroad.</p>
+            </div>
+            <div n="90" type="part">
+               <head>XC.</head>
+               <p>The enemies abroad loſe their power, if we ſubdue or con<g ref="char:EOLhyphen"/>vert our enemies at home.</p>
+            </div>
+            <div n="91" type="part">
+               <head>XCI.</head>
+               <p>The enemies at home will never ceaſe ſo long as the conten<g ref="char:EOLhyphen"/>tion
+<pb n="11" facs="tcp:35516:6"/>is about who ſhall Govern.</p>
+            </div>
+            <div n="92" type="part">
+               <head>XCII.</head>
+               <p>If the Army are our Governours, they can reforme no more then the Parliament, till they have a better Rule then the Par<g ref="char:EOLhyphen"/>liament to reforme by.</p>
+            </div>
+            <div n="93" type="part">
+               <head>XCIII.</head>
+               <p>There can be no better Rule then the Rule in the Word of God.</p>
+            </div>
+            <div n="94" type="part">
+               <head>XCIV.</head>
+               <p>God is able to overturn Armies as well as Kings, Parlia<g ref="char:EOLhyphen"/>ments, and Protectors.</p>
+            </div>
+            <div n="95" type="part">
+               <head>XCV.</head>
+               <p>God will overturn Armies if they ſet up themſelves in the place of his Son Jeſus Chriſt.</p>
+            </div>
+            <div n="96" type="part">
+               <head>XCVI.</head>
+               <p>If the Army do own the Legiſlative power of Jeſus Chriſt, the Lord Jeſus Chriſt will own them and eſtabliſh them;
+<note place="margin">2 Chro. 20.20. Iſ. 7.9.</note> but if they beleive not they ſhall not be eſtabliſhed. For thoſe that honour me I will honour, ſaith the Lord, and they that deſpiſe me ſhall be lightly eſtemed.
+<note place="margin">1 Sam. 2.30.</note>
+               </p>
+            </div>
+            <div n="97" type="part">
+               <head>XCVII.</head>
+               <p>If the Army Proclaim the Lawes of God, what man dares fight againſt the Lawes of God, though the Jeſuit and Lawyer together ſhould incourage them? for their own conſcience would ſight againſt them.
+<note place="margin">Rom. 2.14.</note>
+               </p>
+            </div>
+            <div n="98" type="part">
+               <head>XCVIII.</head>
+               <p>If the Army Proclaim not the Lawes of God, though they had the Ghoſt of Lycurgus, Numa Pompilius, and Mahomet to boot, and ſhould penn their Lawes from the Tongue of men and Angells, they ſhould neither ſatisfie the conſcience of their Friends, nor deterr the courage of their enemies.
+<note place="margin">Gal. 1.8, 9.</note>
+               </p>
+            </div>
+            <div n="99" type="part">
+               <head>XCIX.</head>
+               <p>What party ſoever (though a Kings party thus low, though a Parliaments party thus broken, though an Army party divi<g ref="char:EOLhyphen"/>ded) ſhall firſt Proclaim the Lawes of God, with any probabili<g ref="char:EOLhyphen"/>ty of ſetling them, though they diſſemble, yet ſhall they pre<g ref="char:EOLhyphen"/>vail, by how much the very title of the quarrel is farr more high and honourable then all other titles whatſoever, and the burthen of mens Lawes ſo great? How much more if they mean in earneſt.</p>
+            </div>
+            <div n="100" type="part">
+               <head>C.</head>
+               <p>The very title of the Lawes of God will unite all parties, but the wicked and prophane: and who would willingly hazard his Soul with the wicked and pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phane?</p>
+            </div>
+            <div n="101" type="part">
+               <head>CI.</head>
+               <pb n="12" facs="tcp:35516:7"/>
+               <p>The wicked and prophane (both unwiſe) will never ſett up the Lawes of God,
+<note place="margin">Deut. 16.18.</note> though the wicked and prophane dare ne<g ref="char:EOLhyphen"/>ver openly contradict them.</p>
+            </div>
+            <div n="102" type="part">
+               <head>CII.</head>
+               <p>The ſeting up of the Lawes of God will ſettle Judges, Re<g ref="char:EOLhyphen"/>corders, in every City or Town Corporate, whereby the Towne and Cities will be obliged, not only in conſcience, but in gratitude and ſenſe of their own benefit, to adhere to thoſe that ſhall firſt proclaim Gods Laws.</p>
+            </div>
+            <div n="103" type="part">
+               <head>CIII.</head>
+               <p>The ſetting up of Judges and Recorders accordingly, will ſave above two or three millions to the people yearly, beſide Vexations and Troubles.</p>
+            </div>
+            <div n="104" type="part">
+               <head>CIV.</head>
+               <p>The ſetting up the Laws of God, will ſettle all men in a peaceful Poſſeſſion of their own, whether it be Houſes, Land, or any other Poſſeſſion.</p>
+            </div>
+            <div n="105" type="part">
+               <head>CV.</head>
+               <p>The ſetting up the Lawes of God, will take away the ſtrife of Titles and falſe witneſſe. Rewarding evil doers with the evil they meant to have done.
+<note place="margin">Deut. 16.19.</note>
+               </p>
+            </div>
+            <div n="106" type="part">
+               <head>CVI.</head>
+               <p>The ſetting up and proclaiming the Laws of God, need no other Councel then alone to proclaim them, being already pen<g ref="char:EOLhyphen"/>ned by the Finger and Penman of God.</p>
+            </div>
+            <div n="107" type="part">
+               <head>CVII.</head>
+               <p>The Curſes of the Law of God,
+<note place="margin">Deut. 28.</note> are provided for all thoſe that oppoſe the Laws of God: And the bleſſings for all thoſe that love and obey them.</p>
+            </div>
+            <div type="part">
+               <head>Adde this after Proverb <hi>LX.</hi>
+               </head>
+               <p>Supreme Officers ought to be changable,
+<note place="margin">Mat. 7.12. Lue. 6.13.</note> that they may equally ſhare in obedience as well as command, and not forget to do as they would be done by.</p>
+            </div>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 68.1.</hi>
+                  </bibl> Let God ariſe, let his enemies be ſcattered.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35516:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
